@@ -1,0 +1,9 @@
+.right{
+    margin-left: 400px;
+}
+.left{
+    margin-left: -200px;
+}
+#btn{
+    transition: .4s all;
+}
